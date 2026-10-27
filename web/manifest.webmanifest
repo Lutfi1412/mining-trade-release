@@ -1,0 +1,13 @@
+{
+  "name": "Futures Signal",
+  "short_name": "Futures Signal",
+  "description": "Pemantau dominasi order buy/sell Binance, log sinyal, dan analisis.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A101C",
+  "theme_color": "#0A101C",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
